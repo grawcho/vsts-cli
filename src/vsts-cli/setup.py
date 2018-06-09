@@ -16,7 +16,12 @@ VERSION = '0.1.1'
 # http://pypi.python.org/pypi/setuptools
 
 REQUIRES = [
+<<<<<<< HEAD
     'knack==0.3.0',
+=======
+    'knack==0.3.3',
+    'setuptools',
+>>>>>>> upstream/master
     'vsts-cli-common==' + VERSION,
     'vsts-cli-build==' + VERSION,
     'vsts-cli-code==' + VERSION,
