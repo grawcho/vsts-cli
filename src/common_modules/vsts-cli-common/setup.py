@@ -17,15 +17,9 @@ VERSION = '0.1.1'
 
 REQUIRES = [
     'keyring~=10.5.0',
-<<<<<<< HEAD
     'knack==0.3.0',
     'python-dateutil==2.6.1',
     'vsts~=0.1.1.dev'
-=======
-    'knack==0.3.3',
-    'python-dateutil==2.7.3',
-    'vsts~=0.1.6.dev'
->>>>>>> upstream/master
 ]
 
 CLASSIFIERS = [
